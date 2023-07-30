@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ulyySYS
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning express
-- 💞️ I’m looking to collaborate on web dev related projects and gigs
-- 📫 How to reach me audanulysses320@gmail.com
+- 👀 I’m interested in competitive programming
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to practice my skills
+- idk wtf is this anyway
 
 <!---
 ulyySYS/ulyySYS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
