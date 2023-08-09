@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ulyySYS
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently practicing c++
 - 💞️ I’m looking to practice my skills
 - idk wtf is this anyway
 
