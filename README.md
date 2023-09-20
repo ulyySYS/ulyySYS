@@ -4,7 +4,7 @@
 - 💞️ I’m looking to practice my skills
 - idk wtf is this anyway
 - I major in procratinating
-- How did you find this me?
+- How did you find me
 
 <!---
 ulyySYS/ulyySYS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
