@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ulyySYS
-- 👀 I’m interested in competitive programming
-- 🌱 I’m currently practicing c++
-- 💞️ I’m looking to practice my skills
-- How did you find me
-- I major in procratinating
+- 👀 I’m interested in competitive programming, software development
+- 🌱 I’m currently practicing java
+- 💞️ I’m looking to practice my skills, collaborate, and learn with others
+
 
 <!---
 ulyySYS/ulyySYS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
